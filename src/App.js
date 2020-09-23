@@ -41,6 +41,8 @@ class App extends Component {
     // const contacts = this.state.contacts
     // const todos = this.state.todos
     // const { contacts, todos } = this.state 
+
+    // this.props
     const { contacts, showForm } = this.state 
     return(
       <Container>

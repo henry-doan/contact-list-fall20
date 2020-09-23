@@ -13,4 +13,10 @@ const Contact = ({ id, firstName, phone, removeContact }) => (
   </Table.Row>
 )
 
+// {
+//   return(
+
+//   )
+// }
+
 export default Contact;
